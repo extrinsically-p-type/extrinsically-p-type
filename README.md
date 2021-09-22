@@ -1,16 +1,15 @@
+### Hello Human!
 ### Hi there 👋
 
-<!--
-**extrinsically-p-type/extrinsically-p-type** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [👩💻](https://emojipedia.org/man-technologist/) I am currently working on finding a purpose to my life.
 
-Here are some ideas to get you started:
+### [📖](https://emojipedia.org/open-book/) I am currently learning about Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [👁️‍🗨️](https://emojipedia.org/eye-in-speech-bubble/) Ask me about Google/Microsoft Workspace.
+
+### [🙂](https://emojipedia.org/slightly-smiling-face/) Pronouns: He/His.
+
+### [📨](https://emojipedia.org/incoming-envelope/) Reach me at: 
+- ####  [💼](https://emojipedia.org/briefcase/) [LinkedIn](https://www.linkedin.com/in/pinakci-kathotia/)
+- ####  [🟢](https://emojipedia.org/large-green-circle/) [Hackerrank](https://www.hackerrank.com/RTM050)
+- ####  [📧](https://emojipedia.org/e-mail/) [Email](mailto:pinakickathotia@gmail.com)
