@@ -1,7 +1,7 @@
 ### Hello Human!
 ### Hi there 👋
 
-### [👩💻](https://emojipedia.org/man-technologist/) I am currently working on finding a purpose to my life.
+### [👨‍💻](https://emojipedia.org/man-technologist/) I am currently working on finding a purpose to my life.
 
 ### [📖](https://emojipedia.org/open-book/) I am currently learning about Web Development.
 
