@@ -11,5 +11,6 @@
 
 ### [📨](https://emojipedia.org/incoming-envelope/) Reach me at: 
 - ####  [💼](https://emojipedia.org/briefcase/) [LinkedIn](https://www.linkedin.com/in/pinakci-kathotia/)
-- ####  [🟢](https://emojipedia.org/large-green-circle/) [Hackerrank](https://www.hackerrank.com/RTM050)
 - ####  [📧](https://emojipedia.org/e-mail/) [Email](mailto:pinakickathotia@gmail.com)
+- ####  [🟢](https://emojipedia.org/large-green-circle/) [Hackerrank](https://www.hackerrank.com/RTM050)
+- ####  [😺](https://emojipedia.org/grinning-cat/) [GitLab](https://gitlab.com/RTM050)
